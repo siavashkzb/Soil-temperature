@@ -1,0 +1,53 @@
+[{'Target Variable': 'Avg_Soil_TP20_TempC',
+  'Best Parameters': {'C': 20, 'kernel': 'rbf'},
+  'R Squared': 0.8868118071237171,
+  'MAE': 2.1192725852351857,
+  'MSE': 7.517478360602743},
+
+ {'Target Variable': 'Max_Soil_TP20_TempC',
+  'Best Parameters': {'C': 10, 'kernel': 'rbf'},
+  'R Squared': 0.8894088646666035,
+  'MAE': 2.106273957679194,
+  'MSE': 7.735189691533127},
+
+ {'Target Variable': 'Min_Soil_TP20_TempC',
+  'Best Parameters': {'C': 20, 'kernel': 'rbf'},
+  'R Squared': 0.8978970820587301,
+  'MAE': 1.9801998092387914,
+  'MSE': 6.408154675289297},
+
+ {'Target Variable': 'Avg_Soil_TP20_TempC_Plus_1',
+  'Best Parameters': {'C': 10, 'kernel': 'rbf'},
+  'R Squared': 0.8841768858786105,
+  'MAE': 2.115837338296104,
+  'MSE': 7.710948228800089},
+
+ {'Target Variable': 'Max_Soil_TP20_TempC_Plus_1',
+  'Best Parameters': {'C': 10, 'kernel': 'rbf'},
+  'R Squared': 0.8739325993405673,
+  'MAE': 2.17010561874207,
+  'MSE': 8.98473883703148},
+
+ {'Target Variable': 'Min_Soil_TP20_TempC_Plus_1',
+  'Best Parameters': {'C': 20, 'kernel': 'rbf'},
+  'R Squared': 0.8924979088850538,
+  'MAE': 1.9875141967242458,
+  'MSE': 6.763351368935689},
+
+ {'Target Variable': 'Avg_Soil_TP20_TempC_Plus_2',
+  'Best Parameters': {'C': 10, 'kernel': 'rbf'},
+  'R Squared': 0.8732457963598589,
+  'MAE': 2.1855055846740665,
+  'MSE': 8.562696171044326},
+
+ {'Target Variable': 'Max_Soil_TP20_TempC_Plus_2',
+  'Best Parameters': {'C': 10, 'kernel': 'rbf'},
+  'R Squared': 0.8680303850025333,
+  'MAE': 2.1965316877312127,
+  'MSE': 9.40446120524214},
+
+ {'Target Variable': 'Min_Soil_TP20_TempC_Plus_2',
+  'Best Parameters': {'C': 10, 'kernel': 'rbf'},
+  'R Squared': 0.8885214508230501,
+  'MAE': 2.0279233897937368,
+  'MSE': 7.136808419427422}]
